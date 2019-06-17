@@ -11,9 +11,9 @@
 	          <li class="nav-item active"><a href="index.php" class="nav-link">Home</a></li>
 	          <li class="nav-item"><a href="about.php" class="nav-link">About</a></li>
 	          
-	          <li class="nav-item"><a href="blog.html" class="nav-link">Our Services</a></li>
-	          <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
-	          <li class="nav-item cta"><a href="contact.html" class="nav-link"><span>Get started</span></a></li>
+	          <li class="nav-item"><a href="services.php" class="nav-link">Our Services</a></li>
+	          
+	          <li class="nav-item cta"><a href="contact.php" class="nav-link"><span>Contact</span></a></li>
 	        </ul>
 	      </div>
 	    </div>
